@@ -2,7 +2,7 @@
 
 This is my first project while I started to relearn JS from basics again. I know I have worked with other frameworks in both frontend and backend but I have always lacked the basics so I am giving time to the basics again. What is different in this project than others what I have done before ? Well. this is the first project I have done by reading documentations only and not watching a single video tutorials. I have created this game using the tutorial on the [MDN page](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript)
 This is the first project that I have started to work on documentations also.
-### [Click here]( https://pratham-sapkota.github.io/2D-Breakout-Game/) to play the game.
+
 
 ##What have I used in this project?
 This project is solely based on HTML and Javascript .
@@ -21,6 +21,8 @@ At first we created the ball using `ctx.rect()` and various parameters inside. T
 ![gameover screenshot](/images/2db.png)
 
 ![winning screenshot](/images/2dc.png)
+
+### [Click here]( https://pratham-sapkota.github.io/2D-Breakout-Game/) to play the game.
 
 _This is my first documentation that I have written in such formatted way and this was fun doing , though writing documentation after finishing a project is a lazy job so i will be writing each documentation as soon as I do something and it will be more detailed. Thank you_
 
